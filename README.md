@@ -34,5 +34,6 @@ The objective of Project 1 was to create a static webpage using HTML and CSS whi
 
 ## Author
 
-Sanskruti Shelar
-DecodeLabs Frontend Development Internship
+Sanskruti Shelar<br>
+Frontend Development Intern<br>
+DecodeLabs 
