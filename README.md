@@ -10,20 +10,21 @@ The objective was to design and develop a static Cake Shop website using HTML5 a
 
 ### Homepage
 
-![Homepage](screenshots/home.png)
+![Homepage](Screenshots/home.png)
 
 
 ### Signature Cakes Section
 
-Screenshots/Cake section.png
+![Cake Section](Screenshots/Cakesection.png)
 
 ### Extras Section
 
-Screenshots/Extras section.png
+![Extras Section](Screenshots/Extrassection.png)
 
-###Footer Section
+### Footer
 
-Screenshots/Footer.png
+![Footer Section](Screenshots/Footer.png)
+
 ## Features
 
 * Semantic HTML5 Structure
@@ -58,6 +59,6 @@ Screenshots/Footer.png
 
 ## Author
 
-**Sanskruti Shelar**
-Frontend Development Intern
+**Sanskruti Shelar**<br>
+Frontend Development Intern<br>
 DecodeLabs
