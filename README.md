@@ -10,7 +10,8 @@ The objective was to design and develop a static Cake Shop website using HTML5 a
 
 ### Homepage
 
-Screenshots/home.png
+![Homepage](screenshots/home.png)
+
 
 ### Signature Cakes Section
 
