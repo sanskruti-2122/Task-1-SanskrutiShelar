@@ -10,20 +10,19 @@ The objective was to design and develop a static Cake Shop website using HTML5 a
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+Screenshots/home.png
 
 ### Signature Cakes Section
 
-![Cakes Section](screenshots/cakes-section.png)
+Screenshots/Cake section.png
 
 ### Extras Section
 
-![Extras Section](screenshots/extras-section.png)
+Screenshots/Extras section.png
 
 ###Footer Section
 
-![Cakes Section](screenshots/cakes-section.png)
-
+Screenshots/Footer.png
 ## Features
 
 * Semantic HTML5 Structure
