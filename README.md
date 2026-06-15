@@ -4,36 +4,60 @@
 
 This project was developed as part of the DecodeLabs Frontend Development Internship.
 
-The objective of Project 1 was to create a static webpage using HTML and CSS while following proper webpage structure and styling practices.
+The objective was to design and develop a static Cake Shop website using HTML5 and CSS3 while maintaining a clean layout, proper webpage structure, and visual consistency.
+
+## Project Preview
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Signature Cakes Section
+
+![Cakes Section](screenshots/cakes-section.png)
+
+### Extras Section
+
+![Extras Section](screenshots/extras-section.png)
+
+###Footer Section
+
+![Cakes Section](screenshots/cakes-section.png)
 
 ## Features
 
-* Semantic HTML structure
-* Navigation bar
-* Hero section
-* Product showcase
-* Informational content sections
-* Footer section
-* Clean and organized design
+* Semantic HTML5 Structure
+* Responsive Navigation Layout
+* Hero Banner Section
+* Cake Categories Showcase
+* Customer Reviews Section
+* Celebration Accessories Section
+* Contact Information Footer
+* Modern Card-Based Design
 
 ## Technologies Used
 
 * HTML5
 * CSS3
+* Flexbox
+* CSS Grid
+* CSS Variables
 
 ## Learning Outcomes
 
-* Understanding HTML page structure
-* Working with CSS styling
-* Creating visually appealing layouts
-* Organizing webpage content effectively
+* HTML Page Structure
+* Semantic Elements
+* CSS Styling
+* Layout Design
+* Flexbox and Grid Usage
+* UI Development Fundamentals
 
-## Project Status
+## Status
 
 ✅ Completed
 
 ## Author
 
-Sanskruti Shelar<br>
-Frontend Development Intern<br>
-DecodeLabs 
+**Sanskruti Shelar**
+Frontend Development Intern
+DecodeLabs
