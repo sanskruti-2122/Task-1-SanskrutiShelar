@@ -1,5 +1,3 @@
-/* RESET */
-
 * {
     margin: 0;
     padding: 0;
@@ -7,11 +5,11 @@
 }
 
 :root{
-    --primary: #FF6B9A;      /* Celebration Pink */
-    --secondary: #FFD166;    /* Gold */
-    --background: #FFF8F0;   /* Cream */
+    --primary: #FF6B9A;     
+    --secondary: #FFD166;   
+    --background: #FFF8F0;  
     --card: #FFFFFF;
-    --text: #4A2C2A;         /* Chocolate Brown */
+    --text: #4A2C2A;        
     --footer: #3E2723;
     --footer-text: #FFF8F0;
 }
@@ -109,7 +107,7 @@ header {
             rgba(0, 0, 0, 0.4),
             rgba(0, 0, 0, 0.4)
         ),
-     url("Hero.jpg");
+     url("images/Hero.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -287,8 +285,6 @@ border:2px solid #FFE5EC;
    background:#FFC233;
 }
 
-    /* CELEBRATION ESSENTIALS */
-
 .extras-section{
     padding:4rem 2rem;
     text-align:center;
@@ -349,7 +345,7 @@ border:2px solid #FFE5EC;
     display:flex;
     flex-wrap:wrap;
 
-    justify-content:center;  /* Centers all cards */
+    justify-content:center; 
 
     gap:1.5rem;
 
@@ -382,9 +378,6 @@ border:2px solid #FFE5EC;
 .extra-card h3{
     margin-top:1rem;
 }
-
-
-/* CUSTOMER REVIEWS */
 
 .review-section{
     display:flex;
@@ -441,10 +434,6 @@ border:2px solid #FFE5EC;
 
     color:#FFD700;
 }
-
-
-
-/* VIDEO + TEXT SECTIONS */
 
 .video-section{
     padding:4rem 2rem;
@@ -574,7 +563,6 @@ display:flex;
     color:var(--secondary);
     font-size:1.2rem;
 }
-/* HOW IT WORKS */
 
 .how-it-works {
     padding: 4rem 2rem;
@@ -614,7 +602,6 @@ display:flex;
     line-height: 1.6;
     color: var(--text);
 }
-/* OFFERS SECTION */
 
 .offers-section {
     padding: 4rem 2rem;
@@ -656,7 +643,6 @@ display:flex;
     color: var(--text);
     font-size: 0.95rem;
 }
-/* CTA SECTION */
 
 .cta-section {
     padding: 5rem 2rem;
@@ -706,7 +692,6 @@ display:flex;
     overflow: hidden;
 }
 
-/* TOP LEFT STAR + LINE */
 .framed-card::before {
     content: "✦";
     position: absolute;
@@ -716,7 +701,6 @@ display:flex;
     font-size: 1rem;
 }
 
-/* BOTTOM RIGHT STAR + LINE */
 .framed-card::after {
     content: "✦";
     position: absolute;
@@ -726,7 +710,6 @@ display:flex;
     font-size: 1rem;
 }
 
-/* decorative corner lines */
 .framed-card {
     background-image:
         linear-gradient(var(--secondary), var(--secondary)),
